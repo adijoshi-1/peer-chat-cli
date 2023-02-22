@@ -1,0 +1,25 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node peer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "b4a": "^1.6.1",
+    "corestore": "^6.4.3",
+    "dotenv": "^16.0.3",
+    "graceful-goodbye": "^1.2.1",
+    "hypercore-crypto": "^3.3.1",
+    "hyperdrive": "^11.0.0-alpha.10",
+    "hyperswarm": "^4.3.7",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "prettier": "2.8.4"
+  }
+}
